@@ -45,9 +45,8 @@ img{
 }
 
 a{
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+    text-align: center;
     font-size: 16px;
     color: crimson;
-    border-style: dotted;
 }
