@@ -3,7 +3,8 @@ body {
     background-color: snow;
     color: black;
     font-size: 14px;
-    font-family: sans-serif; 
+    font-family: sans-serif;
+    font-weight: normal;
 }
 
 h1{
@@ -22,6 +23,7 @@ h2{
 h3{
     font-style: italic;
     font-size: 16px;
+    font-weight: lighter;
 }
 
 p{
