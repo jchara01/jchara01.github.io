@@ -5,5 +5,20 @@
 body {
     background-color: darkslategrey;
     color: azure;
-    font-size: 1.1em;
+    font-size: 14px;
 }
+
+h1{
+    text-decoration: underline & bold;
+    font-size: 18px;
+}
+
+h2{
+    color:pink;
+    font-size: 16px;
+    text-decoration: bold;
+}
+    
+</style>
+</head>
+</html>
