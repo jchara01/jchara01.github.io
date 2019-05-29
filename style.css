@@ -37,7 +37,8 @@ p{
  
 img{
     margin-top: 40px;
-    margin: 0 auto;
+    margin-left: 25%;
+    margin-left: 25%;
     display: block;
     width: auto;
     height: auto;
@@ -46,4 +47,5 @@ img{
 a{
     font-size: 16px;
     color: crimson;
+    margin-left: 25%;
 }
