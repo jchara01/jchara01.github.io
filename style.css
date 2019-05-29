@@ -13,6 +13,7 @@ h1{
     font-weight: bold;
     font-size: 25px;
     margin: auto;
+    text-align: center;
 }
 
 h2{
@@ -26,6 +27,7 @@ h3{
     font-style: italic;
     font-size: 16px;
     font-weight: lighter;
+    text-align:  center;
 }
 
 p{
